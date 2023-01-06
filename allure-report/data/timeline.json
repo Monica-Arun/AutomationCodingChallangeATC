@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "COK-A-00107",
+    "children" : [ {
+      "name" : "19008@COK-A-00107.Test worker(15)",
+      "children" : [ {
+        "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
+        "uid" : "642931951b20dc32",
+        "parentUid" : "9df547e1f98e056cce79a229cb3747a0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1672757203593,
+          "stop" : 1672757235709,
+          "duration" : 32116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "QA" ]
+      } ],
+      "uid" : "9df547e1f98e056cce79a229cb3747a0"
+    } ],
+    "uid" : "ff42e2611c29bd2274dd1d836df09cdd"
+  } ]
+}

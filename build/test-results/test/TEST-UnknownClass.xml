@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnknownClass" tests="537" skipped="508" failures="0" errors="0" timestamp="2023-01-03T14:46:42" hostname="COK-A-00107" time="34.178">
+  <properties/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Gateway-APIs" classname="UnknownClass" time="0.027"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="33.727"/>
+  <testcase name="IG Connect - APIs" classname="UnknownClass" time="33.732"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="GUI Navigation - IGConnect/Gateway" classname="UnknownClass" time="0.004"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Device Management" classname="UnknownClass" time="0.012"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Device Management" classname="UnknownClass" time="0.011"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Device Management" classname="UnknownClass" time="0.004"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Device Management" classname="UnknownClass" time="0.012"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Diagnostics" classname="UnknownClass" time="0.008"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Diagnostics" classname="UnknownClass" time="0.004"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Error and Audit Notifications - AWS/SNS Validation" classname="UnknownClass" time="0.002"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="IGConnect Gateway Management" classname="UnknownClass" time="0.014"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Gateway Monitoring" classname="UnknownClass" time="0.006"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Health Check" classname="UnknownClass" time="0.0"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="LPD API" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="LPD" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Logs - Gateway" classname="UnknownClass" time="0.006"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Logs - Gateway" classname="UnknownClass" time="0.002"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Logs IGConnect" classname="UnknownClass" time="0.002"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Logs IGConnect" classname="UnknownClass" time="0.006"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Ig Connect - Order File Processing" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Local Gateway - Password change" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Repair - Gateway" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Software Updates - IGConnect" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="SoftwareUpdate" classname="UnknownClass" time="0.0"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="UNC" classname="UnknownClass" time="0.002"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="UNC" classname="UnknownClass" time="0.0"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="User Management - IGConnect" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Example #1" classname="UnknownClass" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="User Management - IGConnect - Automated Tests" classname="UnknownClass" time="0.001"/>
+  <system-out><![CDATA[
+@EDGW-4432 @EDGW-6545 @IGConnectAPI @IGConnect @Regression @Automatable
+Scenario Outline: IGCommonAPI_TC014_Validate_GatewayDetails                              ?[90m# features/Common_IGConnect_API.feature:118?[0m
+
+    Embedding Test Execution Began [text/plain 41 bytes]
+
+2023-01-03 20:16:44,907 INFO  com.Base.Utilities.Browser.get_environment_fromCommandline - Environment passed from the commandline : Stage
+2023-01-03 20:16:44,919 INFO  com.Base.Utilities.Browser.get_Browser - Browser not specified...! Defaulting to 'Chrome'
+2023-01-03 20:16:44,921 INFO  com.Base.Utilities.Browser.get_ScenarioName - Scenario name for data sheet : IGCommonAPI_TC014_Validate_GatewayDetails
+  ?[32mGiven ?[0m?[32minitialise API environment - ?[0m?[32m?[1m"QA"?[0m                                                ?[90m# StepDefinitions.Hooks.initialise_API_Environment(java.lang.String)?[0m
+2023-01-03 20:16:48,137 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+2023-01-03 20:16:48,153 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+
+    Embedding EnvironmentURL-> [text/plain 119 bytes]
+
+2023-01-03 20:16:48,614 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_PrincipalId_MultipleOrg for the environment : Stage
+2023-01-03 20:16:48,630 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : SerialNumber for the environment : Stage
+2023-01-03 20:16:48,633 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_OrganizationId for the environment : Stage
+2023-01-03 20:16:48,633 INFO  test.pages.Backlogs_IGConnect_API_Page.Hit_IGConnectSingleGatewayAPI_CaptureGatewayId - OrganizationDetails {
+    "page": 1,
+    "size": 5,
+    "serialNumber": "Y120M2A0027",
+    "organizationId": [
+        1000075738
+    ]
+}
+2023-01-03 20:16:48,640 INFO  com.Base.Utilities.Configurations.GLOBAL_get_Data - Retrieved : IGConnect_getgatewaydetails Value : /api/cl-ig-connect/v1/gateways
+
+    Embedding ServiceURI-> [text/plain 46 bytes]
+
+{
+    "gatewayDetails": [
+        {
+            "serialNumber": "Y120M2A0027",
+            "macId": "1442FC3896F7",
+            "gatewayId": "10de7872-693f-4d5a-b78a-5cc992ddb388",
+            "gatewayType": "ReliaGATE 10-12 (IoT Gateway)",
+            "gatewayStatus": "Active",
+            "gatewayConnection": "Online",
+            "organization": "1000075738",
+            "region": "Global",
+            "eCloudGatewayId": "Xzaq-dGe9l0"
+        }
+    ],
+    "size": 1
+}
+
+    Embedding Response_Recieved [text/plain 495 bytes]
+
+  ?[32mAnd ?[0m?[32mhit the API - 'IG Connect - Get single gateway details' and capture the gateway Id?[0m ?[90m# StepDefinitions.Backlog_API_Steps.hitTheAPIIGConnectGetSingleGatewayDetailsAndCaptureTheGatewayId()?[0m
+2023-01-03 20:16:51,838 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+2023-01-03 20:16:51,839 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+
+    Embedding EnvironmentURL-> [text/plain 119 bytes]
+
+2023-01-03 20:16:51,943 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_PrincipalId_MultipleOrg for the environment : Stage
+2023-01-03 20:16:51,944 INFO  com.Base.Utilities.Configurations.GLOBAL_get_Data - Retrieved : IGConnect_GatewayDetailsOneAPP Value : /api/cl-ig-connect/v1/gateways/gateway-details?gatewayId={GatewayId}
+
+    Embedding ServiceURI-> [text/plain 109 bytes]
+
+{
+    "monitorHardwareResponse": {
+        "status": "RED",
+        "cpuUtilization": "25.482764830531735",
+        "memoryUtilization": "47.692999458539",
+        "diskUsed": "80.32"
+    },
+    "monitorSoftwareResponse": {
+        "connectionStatus": "Online",
+        "esf": "TF_EDGE_10_12_1.0.0-Beta-3"
+    },
+    "monitorNetworkStatus": "Couldn't Process",
+    "deviceDetailsResponse": {
+        "deviceDetails": [
+            {
+                "deviceName": "RegressionTestQA",
+                "deviceStatus": "REGISTERED",
+                "deviceType": "ElectronMicroscope",
+                "uniqueDeviceId": "2c901-e566-4ba8-8168-2a6cc4d",
+                "dataFlow": false
+            },
+            {
+                "deviceName": "DEVICE_NAME_01_170",
+                "model": "mol-771",
+                "serialNumber": "sl-771",
+                "deviceStatus": "ACTIVE",
+                "deviceType": "ElectronMicroscope",
+                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-qmnhxxctgm",
+                "uniqueDeviceId": "DEVICE_PR_01",
+                "deviceTwinId": "50e4bb7c-2828-4ac6-8706-8b9d0d3a4229",
+                "dataFlow": false,
+                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DEVICE_PR_01}"
+            },
+            {
+                "deviceName": "testdevicedereg1",
+                "model": "mol-1274578446",
+                "serialNumber": "sl-11644534456",
+                "deviceStatus": "ACTIVE",
+                "deviceType": "ElectronMicroscope",
+                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-l7h7cuqqcf",
+                "uniqueDeviceId": "testdevicedereg1",
+                "deviceTwinId": "2c69d849-292b-47c8-80e6-492aa41ad6d0",
+                "dataFlow": false,
+                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=testdevicedereg1}"
+            },
+            {
+                "deviceName": "Test123",
+                "deviceStatus": "REGISTERED",
+                "deviceType": "ElectronMicroscope",
+                "uniqueDeviceId": "test123",
+                "dataFlow": false
+            },
+            {
+                "deviceName": "Device230103164825",
+                "model": "mol-00844era11",
+                "serialNumber": "sl-009eria11",
+                "deviceStatus": "ACTIVE",
+                "deviceType": "ElectronMicroscope",
+                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-ailv8ntdd7",
+                "uniqueDeviceId": "DevUnique230103164824",
+                "deviceTwinId": "a2870f6f-8782-4271-b665-a415d2d7c97c",
+                "dataFlow": true,
+                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DevUnique230103164824}"
+            }
+        ],
+        "size": 5
+    },
+    "userInfo": {
+        "name": "admin",
+        "password": "Y120M2A0027"
+    },
+    "organization": "Lab_Edge_MSD_Release_2",
+    "region": "Global",
+    "gatewayConnectionStatus": "Online",
+    "serialNum": "Y120M2A0027"
+}
+
+    Embedding Response_Recieved [text/plain 2990 bytes]
+
+  ?[32mThen ?[0m?[32mhit the API -'GatewayDetail for One APP' and capture the response?[0m                 ?[90m# StepDefinitions.Backlog_API_Steps.hitTheAPIGatewayDetailForOneAPPAndCaptureTheResponse()?[0m
+
+    Embedding HardwareResponse [text/plain 131 bytes]
+
+  ?[32mThen ?[0m?[32mvalidate the Hardware status in the response?[0m                                      ?[90m# StepDefinitions.Backlog_API_Steps.validateTheHardwareStatusInTheResponse()?[0m
+
+    Embedding SoftwareResponse [text/plain 84 bytes]
+
+  ?[32mAnd ?[0m?[32mvalidate the Software status in the response?[0m                                       ?[90m# StepDefinitions.Backlog_API_Steps.validateTheSoftwareStatusInTheResponse()?[0m
+  ?[32mAnd ?[0m?[32mvalidate the Network status in the response?[0m                                        ?[90m# StepDefinitions.Backlog_API_Steps.validateTheNetworkStatusInTheResponse()?[0m
+
+    Embedding DeviceDetails [text/plain 1483 bytes]
+
+  ?[32mAnd ?[0m?[32mvalidate the Device details in the response?[0m                                        ?[90m# StepDefinitions.Backlog_API_Steps.validateTheDeviceDetailsInTheResponse()?[0m
+
+    Embedding UserInfo [text/plain 53 bytes]
+
+  ?[32mAnd ?[0m?[32mvalidate the userInfo in the response?[0m                                              ?[90m# StepDefinitions.Backlog_API_Steps.validateTheUserInfoInTheResponse()?[0m
+2023-01-03 20:17:15,662 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : Organisation for the environment : Stage
+
+    Embedding Gateway_Organization [text/plain 46 bytes]
+
+2023-01-03 20:17:15,674 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : SerialNumber for the environment : Stage
+
+    Embedding Gateway_SerialNumber [text/plain 35 bytes]
+
+2023-01-03 20:17:15,684 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : Region for the environment : Stage
+
+    Embedding Gateway_Region [text/plain 24 bytes]
+
+
+    Embedding GatewayConnectionStatus [text/plain 33 bytes]
+
+  ?[32mAnd ?[0m?[32mvalidate the Gateway details in the response?[0m                                       ?[90m# StepDefinitions.Backlog_API_Steps.validateTheGatewayDetailsInTheResponse()?[0m
+2023-01-03 20:17:15,705 INFO  StepDefinitions.Hooks.closeBrowser - driver is null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,280 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-03T14:46:43.361Z",
+        "before": [
+          {
+            "embeddings": [
+              {
+                "data": "VGVzdCBFeGVjdXRpb24gQmVnYW4gOiAgMjMvMDEvMDMvMjA6MTY6NDM\u003d",
+                "mime_type": "text/plain",
+                "name": "Test Execution Began"
+              }
+            ],
+            "result": {
+              "duration": 60782300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.Hooks.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 118,
+        "name": "IGCommonAPI_TC014_Validate_GatewayDetails",
+        "description": "",
+        "id": "ig-connect---apis;igcommonapi-tc014-validate-gatewaydetails;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1905300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2894660100,
+              "status": "passed"
+            },
+            "line": 106,
+            "name": "initialise API environment - \"QA\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"QA\"",
+                  "offset": 29
+                }
+              ],
+              "location": "StepDefinitions.Hooks.initialise_API_Environment(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "embeddings": [
+              {
+                "data": "RW52aXJvbm1lbnRVUkwtPiA6ICBodHRwOi8vdnBjZS0wYzdiYzU0ZDU2ZmQ2ZTQ3My1pYnlicGU0ZS52cGNlLXN2Yy0wZTczMzU2MzgzNDU5Njg3MS51cy1lYXN0LTEudnBjZS5hbWF6b25hd3MuY29tOjgxMDA\u003d",
+                "mime_type": "text/plain",
+                "name": "EnvironmentURL-\u003e"
+              },
+              {
+                "data": "U2VydmljZVVSSS0+IDogIC9hcGkvY2wtaWctY29ubmVjdC92MS9nYXRld2F5cw\u003d\u003d",
+                "mime_type": "text/plain",
+                "name": "ServiceURI-\u003e"
+              },
+              {
+                "data": "UmVzcG9uc2VfUmVjaWV2ZWQgOiAgewogICAgImdhdGV3YXlEZXRhaWxzIjogWwogICAgICAgIHsKICAgICAgICAgICAgInNlcmlhbE51bWJlciI6ICJZMTIwTTJBMDAyNyIsCiAgICAgICAgICAgICJtYWNJZCI6ICIxNDQyRkMzODk2RjciLAogICAgICAgICAgICAiZ2F0ZXdheUlkIjogIjEwZGU3ODcyLTY5M2YtNGQ1YS1iNzhhLTVjYzk5MmRkYjM4OCIsCiAgICAgICAgICAgICJnYXRld2F5VHlwZSI6ICJSZWxpYUdBVEUgMTAtMTIgKElvVCBHYXRld2F5KSIsCiAgICAgICAgICAgICJnYXRld2F5U3RhdHVzIjogIkFjdGl2ZSIsCiAgICAgICAgICAgICJnYXRld2F5Q29ubmVjdGlvbiI6ICJPbmxpbmUiLAogICAgICAgICAgICAib3JnYW5pemF0aW9uIjogIjEwMDAwNzU3MzgiLAogICAgICAgICAgICAicmVnaW9uIjogIkdsb2JhbCIsCiAgICAgICAgICAgICJlQ2xvdWRHYXRld2F5SWQiOiAiWHphcS1kR2U5bDAiCiAgICAgICAgfQogICAgXSwKICAgICJzaXplIjogMQp9",
+                "mime_type": "text/plain",
+                "name": "Response_Recieved"
+              }
+            ],
+            "result": {
+              "duration": 5227967400,
+              "status": "passed"
+            },
+            "line": 107,
+            "name": "hit the API - \u0027IG Connect - Get single gateway details\u0027 and capture the gateway Id",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.hitTheAPIIGConnectGetSingleGatewayDetailsAndCaptureTheGatewayId()"
+            },
+            "keyword": "And "
+          },
+          {
+            "embeddings": [
+              {
+                "data": "RW52aXJvbm1lbnRVUkwtPiA6ICBodHRwOi8vdnBjZS0wYzdiYzU0ZDU2ZmQ2ZTQ3My1pYnlicGU0ZS52cGNlLXN2Yy0wZTczMzU2MzgzNDU5Njg3MS51cy1lYXN0LTEudnBjZS5hbWF6b25hd3MuY29tOjgxMDA\u003d",
+                "mime_type": "text/plain",
+                "name": "EnvironmentURL-\u003e"
+              },
+              {
+                "data": "U2VydmljZVVSSS0+IDogIC9hcGkvY2wtaWctY29ubmVjdC92MS9nYXRld2F5cy9nYXRld2F5LWRldGFpbHM/Z2F0ZXdheUlkPTEwZGU3ODcyLTY5M2YtNGQ1YS1iNzhhLTVjYzk5MmRkYjM4OA\u003d\u003d",
+                "mime_type": "text/plain",
+                "name": "ServiceURI-\u003e"
+              },
+              {
+                "data": "UmVzcG9uc2VfUmVjaWV2ZWQgOiAgewogICAgIm1vbml0b3JIYXJkd2FyZVJlc3BvbnNlIjogewogICAgICAgICJzdGF0dXMiOiAiUkVEIiwKICAgICAgICAiY3B1VXRpbGl6YXRpb24iOiAiMjUuNDgyNzY0ODMwNTMxNzM1IiwKICAgICAgICAibWVtb3J5VXRpbGl6YXRpb24iOiAiNDcuNjkyOTk5NDU4NTM5IiwKICAgICAgICAiZGlza1VzZWQiOiAiODAuMzIiCiAgICB9LAogICAgIm1vbml0b3JTb2Z0d2FyZVJlc3BvbnNlIjogewogICAgICAgICJjb25uZWN0aW9uU3RhdHVzIjogIk9ubGluZSIsCiAgICAgICAgImVzZiI6ICJURl9FREdFXzEwXzEyXzEuMC4wLUJldGEtMyIKICAgIH0sCiAgICAibW9uaXRvck5ldHdvcmtTdGF0dXMiOiAiQ291bGRuJ3QgUHJvY2VzcyIsCiAgICAiZGV2aWNlRGV0YWlsc1Jlc3BvbnNlIjogewogICAgICAgICJkZXZpY2VEZXRhaWxzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiZGV2aWNlTmFtZSI6ICJSZWdyZXNzaW9uVGVzdFFBIiwKICAgICAgICAgICAgICAgICJkZXZpY2VTdGF0dXMiOiAiUkVHSVNURVJFRCIsCiAgICAgICAgICAgICAgICAiZGV2aWNlVHlwZSI6ICJFbGVjdHJvbk1pY3Jvc2NvcGUiLAogICAgICAgICAgICAgICAgInVuaXF1ZURldmljZUlkIjogIjJjOTAxLWU1NjYtNGJhOC04MTY4LTJhNmNjNGQiLAogICAgICAgICAgICAgICAgImRhdGFGbG93IjogZmFsc2UKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImRldmljZU5hbWUiOiAiREVWSUNFX05BTUVfMDFfMTcwIiwKICAgICAgICAgICAgICAgICJtb2RlbCI6ICJtb2wtNzcxIiwKICAgICAgICAgICAgICAgICJzZXJpYWxOdW1iZXIiOiAic2wtNzcxIiwKICAgICAgICAgICAgICAgICJkZXZpY2VTdGF0dXMiOiAiQUNUSVZFIiwKICAgICAgICAgICAgICAgICJkZXZpY2VUeXBlIjogIkVsZWN0cm9uTWljcm9zY29wZSIsCiAgICAgICAgICAgICAgICAiZGV2aWNlSWQiOiAiMTBkZTc4NzItNjkzZi00ZDVhLWI3OGEtNWNjOTkyZGRiMzg4LXFtbmh4eGN0Z20iLAogICAgICAgICAgICAgICAgInVuaXF1ZURldmljZUlkIjogIkRFVklDRV9QUl8wMSIsCiAgICAgICAgICAgICAgICAiZGV2aWNlVHdpbklkIjogIjUwZTRiYjdjLTI4MjgtNGFjNi04NzA2LThiOWQwZDNhNDIyOSIsCiAgICAgICAgICAgICAgICAiZGF0YUZsb3ciOiBmYWxzZSwKICAgICAgICAgICAgICAgICJtZXRhZGF0YSI6ICJ7a2V5MT1rZXkxLCBrZXkyPWtleTIsIHVuaXF1ZURldmljZUlkPURFVklDRV9QUl8wMX0iCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJkZXZpY2VOYW1lIjogInRlc3RkZXZpY2VkZXJlZzEiLAogICAgICAgICAgICAgICAgIm1vZGVsIjogIm1vbC0xMjc0NTc4NDQ2IiwKICAgICAgICAgICAgICAgICJzZXJpYWxOdW1iZXIiOiAic2wtMTE2NDQ1MzQ0NTYiLAogICAgICAgICAgICAgICAgImRldmljZVN0YXR1cyI6ICJBQ1RJVkUiLAogICAgICAgICAgICAgICAgImRldmljZVR5cGUiOiAiRWxlY3Ryb25NaWNyb3Njb3BlIiwKICAgICAgICAgICAgICAgICJkZXZpY2VJZCI6ICIxMGRlNzg3Mi02OTNmLTRkNWEtYjc4YS01Y2M5OTJkZGIzODgtbDdoN2N1cXFjZiIsCiAgICAgICAgICAgICAgICAidW5pcXVlRGV2aWNlSWQiOiAidGVzdGRldmljZWRlcmVnMSIsCiAgICAgICAgICAgICAgICAiZGV2aWNlVHdpbklkIjogIjJjNjlkODQ5LTI5MmItNDdjOC04MGU2LTQ5MmFhNDFhZDZkMCIsCiAgICAgICAgICAgICAgICAiZGF0YUZsb3ciOiBmYWxzZSwKICAgICAgICAgICAgICAgICJtZXRhZGF0YSI6ICJ7a2V5MT1rZXkxLCBrZXkyPWtleTIsIHVuaXF1ZURldmljZUlkPXRlc3RkZXZpY2VkZXJlZzF9IgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiZGV2aWNlTmFtZSI6ICJUZXN0MTIzIiwKICAgICAgICAgICAgICAgICJkZXZpY2VTdGF0dXMiOiAiUkVHSVNURVJFRCIsCiAgICAgICAgICAgICAgICAiZGV2aWNlVHlwZSI6ICJFbGVjdHJvbk1pY3Jvc2NvcGUiLAogICAgICAgICAgICAgICAgInVuaXF1ZURldmljZUlkIjogInRlc3QxMjMiLAogICAgICAgICAgICAgICAgImRhdGFGbG93IjogZmFsc2UKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImRldmljZU5hbWUiOiAiRGV2aWNlMjMwMTAzMTY0ODI1IiwKICAgICAgICAgICAgICAgICJtb2RlbCI6ICJtb2wtMDA4NDRlcmExMSIsCiAgICAgICAgICAgICAgICAic2VyaWFsTnVtYmVyIjogInNsLTAwOWVyaWExMSIsCiAgICAgICAgICAgICAgICAiZGV2aWNlU3RhdHVzIjogIkFDVElWRSIsCiAgICAgICAgICAgICAgICAiZGV2aWNlVHlwZSI6ICJFbGVjdHJvbk1pY3Jvc2NvcGUiLAogICAgICAgICAgICAgICAgImRldmljZUlkIjogIjEwZGU3ODcyLTY5M2YtNGQ1YS1iNzhhLTVjYzk5MmRkYjM4OC1haWx2OG50ZGQ3IiwKICAgICAgICAgICAgICAgICJ1bmlxdWVEZXZpY2VJZCI6ICJEZXZVbmlxdWUyMzAxMDMxNjQ4MjQiLAogICAgICAgICAgICAgICAgImRldmljZVR3aW5JZCI6ICJhMjg3MGY2Zi04NzgyLTQyNzEtYjY2NS1hNDE1ZDJkN2M5N2MiLAogICAgICAgICAgICAgICAgImRhdGFGbG93IjogdHJ1ZSwKICAgICAgICAgICAgICAgICJtZXRhZGF0YSI6ICJ7a2V5MT1rZXkxLCBrZXkyPWtleTIsIHVuaXF1ZURldmljZUlkPURldlVuaXF1ZTIzMDEwMzE2NDgyNH0iCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgICJzaXplIjogNQogICAgfSwKICAgICJ1c2VySW5mbyI6IHsKICAgICAgICAibmFtZSI6ICJhZG1pbiIsCiAgICAgICAgInBhc3N3b3JkIjogIlkxMjBNMkEwMDI3IgogICAgfSwKICAgICJvcmdhbml6YXRpb24iOiAiTGFiX0VkZ2VfTVNEX1JlbGVhc2VfMiIsCiAgICAicmVnaW9uIjogIkdsb2JhbCIsCiAgICAiZ2F0ZXdheUNvbm5lY3Rpb25TdGF0dXMiOiAiT25saW5lIiwKICAgICJzZXJpYWxOdW0iOiAiWTEyME0yQTAwMjciCn0\u003d",
+                "mime_type": "text/plain",
+                "name": "Response_Recieved"
+              }
+            ],
+            "result": {
+              "duration": 23761912800,
+              "status": "passed"
+            },
+            "line": 108,
+            "name": "hit the API -\u0027GatewayDetail for One APP\u0027 and capture the response",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.hitTheAPIGatewayDetailForOneAPPAndCaptureTheResponse()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "embeddings": [
+              {
+                "data": "SGFyZHdhcmVSZXNwb25zZSA6ICB7ImNwdVV0aWxpemF0aW9uIjoiMjUuNDgyNzY0ODMwNTMxNzM1IiwiZGlza1VzZWQiOiI4MC4zMiIsIm1lbW9yeVV0aWxpemF0aW9uIjoiNDcuNjkyOTk5NDU4NTM5Iiwic3RhdHVzIjoiUkVEIn0\u003d",
+                "mime_type": "text/plain",
+                "name": "HardwareResponse"
+              }
+            ],
+            "result": {
+              "duration": 22072600,
+              "status": "passed"
+            },
+            "line": 109,
+            "name": "validate the Hardware status in the response",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.validateTheHardwareStatusInTheResponse()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "embeddings": [
+              {
+                "data": "U29mdHdhcmVSZXNwb25zZSA6ICB7ImNvbm5lY3Rpb25TdGF0dXMiOiJPbmxpbmUiLCJlc2YiOiJURl9FREdFXzEwXzEyXzEuMC4wLUJldGEtMyJ9",
+                "mime_type": "text/plain",
+                "name": "SoftwareResponse"
+              }
+            ],
+            "result": {
+              "duration": 13776200,
+              "status": "passed"
+            },
+            "line": 110,
+            "name": "validate the Software status in the response",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.validateTheSoftwareStatusInTheResponse()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 964200,
+              "status": "passed"
+            },
+            "line": 111,
+            "name": "validate the Network status in the response",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.validateTheNetworkStatusInTheResponse()"
+            },
+            "keyword": "And "
+          },
+          {
+            "embeddings": [
+              {
+                "data": "RGV2aWNlRGV0YWlscyA6ICB7ImRldmljZURldGFpbHMiOlt7ImRldmljZVR5cGUiOiJFbGVjdHJvbk1pY3Jvc2NvcGUiLCJ1bmlxdWVEZXZpY2VJZCI6IjJjOTAxLWU1NjYtNGJhOC04MTY4LTJhNmNjNGQiLCJkYXRhRmxvdyI6ZmFsc2UsImRldmljZU5hbWUiOiJSZWdyZXNzaW9uVGVzdFFBIiwiZGV2aWNlU3RhdHVzIjoiUkVHSVNURVJFRCJ9LHsiZGV2aWNlVHlwZSI6IkVsZWN0cm9uTWljcm9zY29wZSIsImRldmljZVR3aW5JZCI6IjUwZTRiYjdjLTI4MjgtNGFjNi04NzA2LThiOWQwZDNhNDIyOSIsIm1ldGFkYXRhIjoie2tleTE9a2V5MSwga2V5Mj1rZXkyLCB1bmlxdWVEZXZpY2VJZD1ERVZJQ0VfUFJfMDF9Iiwic2VyaWFsTnVtYmVyIjoic2wtNzcxIiwidW5pcXVlRGV2aWNlSWQiOiJERVZJQ0VfUFJfMDEiLCJkYXRhRmxvdyI6ZmFsc2UsIm1vZGVsIjoibW9sLTc3MSIsImRldmljZU5hbWUiOiJERVZJQ0VfTkFNRV8wMV8xNzAiLCJkZXZpY2VJZCI6IjEwZGU3ODcyLTY5M2YtNGQ1YS1iNzhhLTVjYzk5MmRkYjM4OC1xbW5oeHhjdGdtIiwiZGV2aWNlU3RhdHVzIjoiQUNUSVZFIn0seyJkZXZpY2VUeXBlIjoiRWxlY3Ryb25NaWNyb3Njb3BlIiwiZGV2aWNlVHdpbklkIjoiMmM2OWQ4NDktMjkyYi00N2M4LTgwZTYtNDkyYWE0MWFkNmQwIiwibWV0YWRhdGEiOiJ7a2V5MT1rZXkxLCBrZXkyPWtleTIsIHVuaXF1ZURldmljZUlkPXRlc3RkZXZpY2VkZXJlZzF9Iiwic2VyaWFsTnVtYmVyIjoic2wtMTE2NDQ1MzQ0NTYiLCJ1bmlxdWVEZXZpY2VJZCI6InRlc3RkZXZpY2VkZXJlZzEiLCJkYXRhRmxvdyI6ZmFsc2UsIm1vZGVsIjoibW9sLTEyNzQ1Nzg0NDYiLCJkZXZpY2VOYW1lIjoidGVzdGRldmljZWRlcmVnMSIsImRldmljZUlkIjoiMTBkZTc4NzItNjkzZi00ZDVhLWI3OGEtNWNjOTkyZGRiMzg4LWw3aDdjdXFxY2YiLCJkZXZpY2VTdGF0dXMiOiJBQ1RJVkUifSx7ImRldmljZVR5cGUiOiJFbGVjdHJvbk1pY3Jvc2NvcGUiLCJ1bmlxdWVEZXZpY2VJZCI6InRlc3QxMjMiLCJkYXRhRmxvdyI6ZmFsc2UsImRldmljZU5hbWUiOiJUZXN0MTIzIiwiZGV2aWNlU3RhdHVzIjoiUkVHSVNURVJFRCJ9LHsiZGV2aWNlVHlwZSI6IkVsZWN0cm9uTWljcm9zY29wZSIsImRldmljZVR3aW5JZCI6ImEyODcwZjZmLTg3ODItNDI3MS1iNjY1LWE0MTVkMmQ3Yzk3YyIsIm1ldGFkYXRhIjoie2tleTE9a2V5MSwga2V5Mj1rZXkyLCB1bmlxdWVEZXZpY2VJZD1EZXZVbmlxdWUyMzAxMDMxNjQ4MjR9Iiwic2VyaWFsTnVtYmVyIjoic2wtMDA5ZXJpYTExIiwidW5pcXVlRGV2aWNlSWQiOiJEZXZVbmlxdWUyMzAxMDMxNjQ4MjQiLCJkYXRhRmxvdyI6dHJ1ZSwibW9kZWwiOiJtb2wtMDA4NDRlcmExMSIsImRldmljZU5hbWUiOiJEZXZpY2UyMzAxMDMxNjQ4MjUiLCJkZXZpY2VJZCI6IjEwZGU3ODcyLTY5M2YtNGQ1YS1iNzhhLTVjYzk5MmRkYjM4OC1haWx2OG50ZGQ3IiwiZGV2aWNlU3RhdHVzIjoiQUNUSVZFIn1dLCJzaXplIjo1fQ\u003d\u003d",
+                "mime_type": "text/plain",
+                "name": "DeviceDetails"
+              }
+            ],
+            "result": {
+              "duration": 8634500,
+              "status": "passed"
+            },
+            "line": 112,
+            "name": "validate the Device details in the response",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.validateTheDeviceDetailsInTheResponse()"
+            },
+            "keyword": "And "
+          },
+          {
+            "embeddings": [
+              {
+                "data": "VXNlckluZm8gOiAgeyJwYXNzd29yZCI6IlkxMjBNMkEwMDI3IiwibmFtZSI6ImFkbWluIn0\u003d",
+                "mime_type": "text/plain",
+                "name": "UserInfo"
+              }
+            ],
+            "result": {
+              "duration": 8688400,
+              "status": "passed"
+            },
+            "line": 113,
+            "name": "validate the userInfo in the response",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.validateTheUserInfoInTheResponse()"
+            },
+            "keyword": "And "
+          },
+          {
+            "embeddings": [
+              {
+                "data": "R2F0ZXdheV9Pcmdhbml6YXRpb24gOiAgTGFiX0VkZ2VfTVNEX1JlbGVhc2VfMg\u003d\u003d",
+                "mime_type": "text/plain",
+                "name": "Gateway_Organization"
+              },
+              {
+                "data": "R2F0ZXdheV9TZXJpYWxOdW1iZXIgOiAgWTEyME0yQTAwMjc\u003d",
+                "mime_type": "text/plain",
+                "name": "Gateway_SerialNumber"
+              },
+              {
+                "data": "R2F0ZXdheV9SZWdpb24gOiAgR2xvYmFs",
+                "mime_type": "text/plain",
+                "name": "Gateway_Region"
+              },
+              {
+                "data": "R2F0ZXdheUNvbm5lY3Rpb25TdGF0dXMgOiAgT25saW5l",
+                "mime_type": "text/plain",
+                "name": "GatewayConnectionStatus"
+              }
+            ],
+            "result": {
+              "duration": 40657000,
+              "status": "passed"
+            },
+            "line": 114,
+            "name": "validate the Gateway details in the response",
+            "match": {
+              "location": "StepDefinitions.Backlog_API_Steps.validateTheGatewayDetailsInTheResponse()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@EDGW-4432"
+          },
+          {
+            "name": "@EDGW-6545"
+          },
+          {
+            "name": "@IGConnectAPI"
+          },
+          {
+            "name": "@IGConnect"
+          },
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@Automatable"
+          }
+        ]
+      }
+    ],
+    "name": "IG Connect - APIs",
+    "description": "",
+    "id": "ig-connect---apis",
+    "keyword": "Feature",
+    "uri": "classpath:features/Common_IGConnect_API.feature",
+    "tags": [
+      {
+        "name": "@EDGW-4432",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

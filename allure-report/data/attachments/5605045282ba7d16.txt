@@ -1,0 +1,1 @@
+SoftwareResponse :  {"connectionStatus":"Online","esf":"TF_EDGE_10_12_1.0.0-Beta-3"}

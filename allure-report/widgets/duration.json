@@ -1,0 +1,11 @@
+[ {
+  "uid" : "642931951b20dc32",
+  "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
+  "time" : {
+    "start" : 1672757203593,
+    "stop" : 1672757235709,
+    "duration" : 32116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

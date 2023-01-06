@@ -1,0 +1,43 @@
+{
+	"configuration": {
+		"status": "error",
+		"name": "default",
+		"ThresholdFilter": {
+			"level": "debug"
+		},
+		"appenders": {
+			"Console": {
+				"name": "STDOUT",
+				"PatternLayout": {
+					"pattern": "%d %-5p %C.%M - %m%n"
+				}
+			}
+		},
+		"loggers": {
+			"root": {
+				"level": "trace",
+				"AppenderRef": {
+					"ref": "STDOUT"
+				}
+			},
+			"logger": [
+			{
+				"name": "com.automation.remarks.video.recorder", 
+				"level": "debug",
+				"AppenderRef": {
+					"ref": "STDOUT"
+				}
+			},
+			{
+				"name": "com.automation.remarks.video.recorder.monte.MonteRecorder", 
+				"level": "debug",
+				"AppenderRef": {
+					"ref": "STDOUT"
+				}
+			}
+			]
+			
+			
+		}
+	}
+}

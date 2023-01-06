@@ -1,0 +1,146 @@
+
+
+plugins {
+    // Apply the java-library plugin to add support for Java Library
+    id 'java-library'
+    id 'io.qameta.allure' version '2.8.1'
+}
+
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+javadoc.options.encoding = 'UTF-8'
+
+repositories {
+    // Use jcenter for resolving dependencies.
+    // You can declare any Maven/Ivy/file repository here.
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+
+    //implementation 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'org.junit.jupiter:junit-jupiter-api:5.7.2'
+    //implementation 'org.junit.vintage:junit-vintage-engine:5.7.0'
+    implementation 'io.github.bonigarcia:webdrivermanager:4.4.3'
+    implementation 'org.apache.logging.log4j:log4j-api:2.17.1'
+    implementation 'org.apache.logging.log4j:log4j-core:2.17.1'
+    implementation 'org.seleniumhq.selenium:selenium-java:3.141.59'
+    implementation 'io.rest-assured:rest-assured:4.4.0'
+    implementation 'io.rest-assured:json-path:4.4.0'
+    implementation 'io.rest-assured:json-schema-validator:4.4.0'
+    implementation 'io.rest-assured:xml-path:4.4.0'
+    implementation 'org.json:json:20210307'
+    implementation 'io.cucumber:cucumber-java:6.10.4'
+    implementation 'io.cucumber:cucumber-junit:6.10.4'
+    implementation group: 'io.cucumber', name: 'cucumber-core', version: '6.10.4'
+    implementation group: 'io.cucumber', name: 'cucumber-gherkin', version: '6.10.4'
+    implementation 'io.qameta.allure:allure-cucumber6-jvm:2.14.0'
+    implementation group: 'io.appium', name: 'java-client', version: '7.5.1'
+    implementation group: 'com.assertthat', name: 'selenium-shutterbug', version: '1.5'
+    testImplementation('io.cucumber:cucumber-junit-platform-engine:6.10.4')
+    testImplementation('io.cucumber:cucumber-picocontainer:6.10.4')
+    implementation group: 'org.apache.poi', name: 'poi', version: '5.0.0'
+    implementation group: 'org.apache.poi', name: 'poi-ooxml', version: '5.0.0'
+    implementation group: 'org.assertj', name: 'assertj-core', version: '3.20.2' // assetj soft assertions
+    implementation group: 'io.qameta.allure', name: 'allure-junit4', version: '2.14.0'
+    //implementation group: 'javax.mail', name: 'javax.mail-api', version: '1.6.2'
+    implementation group: 'com.sun.mail', name: 'javax.mail', version: '1.6.2'
+    implementation group: 'com.google.guava', name: 'guava', version: '30.1.1-jre'
+    implementation group: 'io.rest-assured', name: 'rest-assured', version: '4.4.0'
+    implementation group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'
+
+}
+
+allure {
+    autoconfigure = true
+    version = '2.13.6'  // Latest Allure Version
+}
+
+test {
+    systemProperty "file.encoding", "UTF-8"
+    systemProperties(project.gradle.startParameter.systemPropertiesArgs)
+    systemProperty "cucumber.execution.parallel.enabled",findProperty("test.parallel")
+    systemProperty("cucumber.publish.quiet", "true")
+    systemProperty "country",findProperty("country")
+    systemProperty "browser",findProperty("browser")
+    systemProperty "grid",findProperty("grid")
+    systemProperty "env",findProperty("env")
+    systemProperty "LEGW_IP",findProperty("LEGW_IP")
+    systemProperty "LEGW_Username",findProperty("LEGW_Username")
+    systemProperty "LEGW_Password",findProperty("LEGW_Password")
+    useJUnitPlatform(){
+        excludeTags("disabled")
+    }
+    testLogging {
+        showStandardStreams = true
+        events "passed", "skipped", "failed"
+    }
+
+    ignoreFailures = true
+
+    testLogging {
+
+        showStandardStreams = true
+        exceptionFormat = 'full'
+        showCauses = true
+        showExceptions = true
+        events "passed", "skipped", "failed"
+
+
+        //Print test summary
+        afterSuite { desc, result ->
+            if (!desc.parent) { // will match the outermost suite
+                def output = "RESULT: ${result.resultType} (${result.testCount} TESTS, ${result.successfulTestCount} SUCCESSES, ${result.failedTestCount} FAILURES, ${result.skippedTestCount} SKIPPED)"
+                println('\u001B[33m'+'\n' + ('-' * output.length()) + '\n' + output + '\n' + ('-' * output.length()))
+            }
+        }
+
+    }
+
+
+}
+
+task copyConfigs(type:Copy) {
+    description 'Copies the rconfig files to the allure-results directory.'
+
+    from ("$projectDir" + '/allure-results/'){
+        include '**/*.*'
+    }
+    into 'build/allure-results/'
+    eachFile { println it.name }
+
+}
+
+task deleteOldJsonFiles(type: Delete) {
+    delete fileTree("$projectDir" + '/allure-results/') {
+        include '**/*.*'
+    }
+}
+
+task generateReport(type:Exec) {
+
+    dependsOn 'copyConfigs'
+    dependsOn 'deleteOldJsonFiles'
+    group = 'Reporting'
+    description = 'Generates the HTML test report for this project.'
+
+    def osName = System.getProperty("os.name")
+    logger.quiet("\u001B[33m" + "Project is running on "+"${osName}" + " operating system")
+
+    if(osName.contains("Mac")){
+        commandLine 'src/test/resources/reporting/allureCommandline/bin/allure','generate','-c','./build/allure-results'
+    }
+    if(osName.contains("Windows")){
+        commandLine 'cmd','/c',"$projectDir"+'/src/test/resources/reporting/allureCommandline/bin/allure.bat','generate','-c',"$buildDir"+'/allure-results'
+    }
+    if(osName.contains("Linux")){
+
+        commandLine 'src/test/resources/reporting/allureCommandline/bin/allure','generate','-c','./build/allure-results'
+    }
+}
+
+
+dependencyLocking {
+    lockAllConfigurations()
+}

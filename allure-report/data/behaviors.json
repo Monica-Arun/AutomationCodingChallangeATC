@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "IG Connect - APIs",
+    "children" : [ {
+      "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
+      "children" : [ {
+        "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
+        "uid" : "642931951b20dc32",
+        "parentUid" : "db3a247bbcd44e29fcd33a5b48fff45f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1672757203593,
+          "stop" : 1672757235709,
+          "duration" : 32116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "QA" ]
+      } ],
+      "uid" : "db3a247bbcd44e29fcd33a5b48fff45f"
+    } ],
+    "uid" : "c6d4b279102930937fa9adfb79e94877"
+  } ]
+}

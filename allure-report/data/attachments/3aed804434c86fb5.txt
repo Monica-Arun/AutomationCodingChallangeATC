@@ -1,0 +1,76 @@
+Response_Recieved :  {
+    "monitorHardwareResponse": {
+        "status": "RED",
+        "cpuUtilization": "25.482764830531735",
+        "memoryUtilization": "47.692999458539",
+        "diskUsed": "80.32"
+    },
+    "monitorSoftwareResponse": {
+        "connectionStatus": "Online",
+        "esf": "TF_EDGE_10_12_1.0.0-Beta-3"
+    },
+    "monitorNetworkStatus": "Couldn't Process",
+    "deviceDetailsResponse": {
+        "deviceDetails": [
+            {
+                "deviceName": "RegressionTestQA",
+                "deviceStatus": "REGISTERED",
+                "deviceType": "ElectronMicroscope",
+                "uniqueDeviceId": "2c901-e566-4ba8-8168-2a6cc4d",
+                "dataFlow": false
+            },
+            {
+                "deviceName": "DEVICE_NAME_01_170",
+                "model": "mol-771",
+                "serialNumber": "sl-771",
+                "deviceStatus": "ACTIVE",
+                "deviceType": "ElectronMicroscope",
+                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-qmnhxxctgm",
+                "uniqueDeviceId": "DEVICE_PR_01",
+                "deviceTwinId": "50e4bb7c-2828-4ac6-8706-8b9d0d3a4229",
+                "dataFlow": false,
+                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DEVICE_PR_01}"
+            },
+            {
+                "deviceName": "testdevicedereg1",
+                "model": "mol-1274578446",
+                "serialNumber": "sl-11644534456",
+                "deviceStatus": "ACTIVE",
+                "deviceType": "ElectronMicroscope",
+                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-l7h7cuqqcf",
+                "uniqueDeviceId": "testdevicedereg1",
+                "deviceTwinId": "2c69d849-292b-47c8-80e6-492aa41ad6d0",
+                "dataFlow": false,
+                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=testdevicedereg1}"
+            },
+            {
+                "deviceName": "Test123",
+                "deviceStatus": "REGISTERED",
+                "deviceType": "ElectronMicroscope",
+                "uniqueDeviceId": "test123",
+                "dataFlow": false
+            },
+            {
+                "deviceName": "Device230103164825",
+                "model": "mol-00844era11",
+                "serialNumber": "sl-009eria11",
+                "deviceStatus": "ACTIVE",
+                "deviceType": "ElectronMicroscope",
+                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-ailv8ntdd7",
+                "uniqueDeviceId": "DevUnique230103164824",
+                "deviceTwinId": "a2870f6f-8782-4271-b665-a415d2d7c97c",
+                "dataFlow": true,
+                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DevUnique230103164824}"
+            }
+        ],
+        "size": 5
+    },
+    "userInfo": {
+        "name": "admin",
+        "password": "Y120M2A0027"
+    },
+    "organization": "Lab_Edge_MSD_Release_2",
+    "region": "Global",
+    "gatewayConnectionStatus": "Online",
+    "serialNum": "Y120M2A0027"
+}

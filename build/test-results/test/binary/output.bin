@@ -1,0 +1,176 @@
+
+H@EDGW-4432 @EDGW-6545 @IGConnectAPI @IGConnect @Regression @Automatable
+éScenario Outline: IGCommonAPI_TC014_Validate_GatewayDetails                              [90m# features/Common_IGConnect_API.feature:118[0m
+
+9    Embedding Test Execution Began [text/plain 41 bytes]
+
+å2023-01-03 20:16:44,907 INFO  com.Base.Utilities.Browser.get_environment_fromCommandline - Environment passed from the commandline : Stage
+y2023-01-03 20:16:44,919 INFO  com.Base.Utilities.Browser.get_Browser - Browser not specified...! Defaulting to 'Chrome'
+ñ2023-01-03 20:16:44,921 INFO  com.Base.Utilities.Browser.get_ScenarioName - Scenario name for data sheet : IGCommonAPI_TC014_Validate_GatewayDetails
+∆  [32mGiven [0m[32minitialise API environment - [0m[32m[1m"QA"[0m                                                [90m# StepDefinitions.Hooks.initialise_API_Environment(java.lang.String)[0m
+ï2023-01-03 20:16:48,137 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+ï2023-01-03 20:16:48,153 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+
+6    Embedding EnvironmentURL-> [text/plain 119 bytes]
+
+†2023-01-03 20:16:48,614 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_PrincipalId_MultipleOrg for the environment : Stage
+ê2023-01-03 20:16:48,630 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : SerialNumber for the environment : Stage
+ó2023-01-03 20:16:48,633 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_OrganizationId for the environment : Stage
+å2023-01-03 20:16:48,633 INFO  test.pages.Backlogs_IGConnect_API_Page.Hit_IGConnectSingleGatewayAPI_CaptureGatewayId - OrganizationDetails {
+    "page": 1,
+    "size": 5,
+#    "serialNumber": "Y120M2A0027",
+    "organizationId": [
+        1000075738
+    ]
+}
+¢2023-01-03 20:16:48,640 INFO  com.Base.Utilities.Configurations.GLOBAL_get_Data - Retrieved : IGConnect_getgatewaydetails Value : /api/cl-ig-connect/v1/gateways
+
+1    Embedding ServiceURI-> [text/plain 46 bytes]
+
+{
+    "gatewayDetails": [
+
+        {
++            "serialNumber": "Y120M2A0027",
+%            "macId": "1442FC3896F7",
+A            "gatewayId": "10de7872-693f-4d5a-b78a-5cc992ddb388",
+<            "gatewayType": "ReliaGATE 10-12 (IoT Gateway)",
+'            "gatewayStatus": "Active",
++            "gatewayConnection": "Online",
+*            "organization": "1000075738",
+             "region": "Global",
+-            "eCloudGatewayId": "Xzaq-dGe9l0"
+
+        }
+    ],
+    "size": 1
+}
+
+7    Embedding Response_Recieved [text/plain 495 bytes]
+
+⁄  [32mAnd [0m[32mhit the API - 'IG Connect - Get single gateway details' and capture the gateway Id[0m [90m# StepDefinitions.Backlog_API_Steps.hitTheAPIIGConnectGetSingleGatewayDetailsAndCaptureTheGatewayId()[0m
+ï2023-01-03 20:16:51,838 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+ï2023-01-03 20:16:51,839 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+
+6    Embedding EnvironmentURL-> [text/plain 119 bytes]
+
+†2023-01-03 20:16:51,943 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_PrincipalId_MultipleOrg for the environment : Stage
+À2023-01-03 20:16:51,944 INFO  com.Base.Utilities.Configurations.GLOBAL_get_Data - Retrieved : IGConnect_GatewayDetailsOneAPP Value : /api/cl-ig-connect/v1/gateways/gateway-details?gatewayId={GatewayId}
+
+2    Embedding ServiceURI-> [text/plain 109 bytes]
+
+{
+!    "monitorHardwareResponse": {
+        "status": "RED",
+0        "cpuUtilization": "25.482764830531735",
+0        "memoryUtilization": "47.692999458539",
+        "diskUsed": "80.32"
+    },
+!    "monitorSoftwareResponse": {
+&        "connectionStatus": "Online",
+,        "esf": "TF_EDGE_10_12_1.0.0-Beta-3"
+    },
+0    "monitorNetworkStatus": "Couldn't Process",
+    "deviceDetailsResponse": {
+        "deviceDetails": [
+            {
+2                "deviceName": "RegressionTestQA",
+.                "deviceStatus": "REGISTERED",
+4                "deviceType": "ElectronMicroscope",
+B                "uniqueDeviceId": "2c901-e566-4ba8-8168-2a6cc4d",
+"                "dataFlow": false
+            },
+            {
+4                "deviceName": "DEVICE_NAME_01_170",
+$                "model": "mol-771",
+*                "serialNumber": "sl-771",
+*                "deviceStatus": "ACTIVE",
+4                "deviceType": "ElectronMicroscope",
+O                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-qmnhxxctgm",
+2                "uniqueDeviceId": "DEVICE_PR_01",
+H                "deviceTwinId": "50e4bb7c-2828-4ac6-8706-8b9d0d3a4229",
+#                "dataFlow": false,
+R                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DEVICE_PR_01}"
+            },
+            {
+2                "deviceName": "testdevicedereg1",
++                "model": "mol-1274578446",
+2                "serialNumber": "sl-11644534456",
+*                "deviceStatus": "ACTIVE",
+4                "deviceType": "ElectronMicroscope",
+O                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-l7h7cuqqcf",
+6                "uniqueDeviceId": "testdevicedereg1",
+H                "deviceTwinId": "2c69d849-292b-47c8-80e6-492aa41ad6d0",
+#                "dataFlow": false,
+V                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=testdevicedereg1}"
+            },
+            {
+)                "deviceName": "Test123",
+.                "deviceStatus": "REGISTERED",
+4                "deviceType": "ElectronMicroscope",
+-                "uniqueDeviceId": "test123",
+"                "dataFlow": false
+            },
+            {
+4                "deviceName": "Device230103164825",
++                "model": "mol-00844era11",
+0                "serialNumber": "sl-009eria11",
+*                "deviceStatus": "ACTIVE",
+4                "deviceType": "ElectronMicroscope",
+O                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-ailv8ntdd7",
+;                "uniqueDeviceId": "DevUnique230103164824",
+H                "deviceTwinId": "a2870f6f-8782-4271-b665-a415d2d7c97c",
+"                "dataFlow": true,
+[                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DevUnique230103164824}"
+            }
+        ],
+        "size": 5
+    },
+    "userInfo": {
+        "name": "admin",
+"        "password": "Y120M2A0027"
+    },
+.    "organization": "Lab_Edge_MSD_Release_2",
+    "region": "Global",
+)    "gatewayConnectionStatus": "Online",
+    "serialNum": "Y120M2A0027"
+}
+
+8    Embedding Response_Recieved [text/plain 2990 bytes]
+
+œ  [32mThen [0m[32mhit the API -'GatewayDetail for One APP' and capture the response[0m                 [90m# StepDefinitions.Backlog_API_Steps.hitTheAPIGatewayDetailForOneAPPAndCaptureTheResponse()[0m
+
+6    Embedding HardwareResponse [text/plain 131 bytes]
+
+¡  [32mThen [0m[32mvalidate the Hardware status in the response[0m                                      [90m# StepDefinitions.Backlog_API_Steps.validateTheHardwareStatusInTheResponse()[0m
+
+5    Embedding SoftwareResponse [text/plain 84 bytes]
+
+¡  [32mAnd [0m[32mvalidate the Software status in the response[0m                                       [90m# StepDefinitions.Backlog_API_Steps.validateTheSoftwareStatusInTheResponse()[0m
+¿  [32mAnd [0m[32mvalidate the Network status in the response[0m                                        [90m# StepDefinitions.Backlog_API_Steps.validateTheNetworkStatusInTheResponse()[0m
+
+4    Embedding DeviceDetails [text/plain 1483 bytes]
+
+¿  [32mAnd [0m[32mvalidate the Device details in the response[0m                                        [90m# StepDefinitions.Backlog_API_Steps.validateTheDeviceDetailsInTheResponse()[0m
+
+-    Embedding UserInfo [text/plain 53 bytes]
+
+ª  [32mAnd [0m[32mvalidate the userInfo in the response[0m                                              [90m# StepDefinitions.Backlog_API_Steps.validateTheUserInfoInTheResponse()[0m
+ê2023-01-03 20:17:15,662 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : Organisation for the environment : Stage
+
+9    Embedding Gateway_Organization [text/plain 46 bytes]
+
+ê2023-01-03 20:17:15,674 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : SerialNumber for the environment : Stage
+
+9    Embedding Gateway_SerialNumber [text/plain 35 bytes]
+
+ä2023-01-03 20:17:15,684 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : Region for the environment : Stage
+
+3    Embedding Gateway_Region [text/plain 24 bytes]
+
+
+<    Embedding GatewayConnectionStatus [text/plain 33 bytes]
+
+¡  [32mAnd [0m[32mvalidate the Gateway details in the response[0m                                       [90m# StepDefinitions.Backlog_API_Steps.validateTheGatewayDetailsInTheResponse()[0m
+S2023-01-03 20:17:15,705 INFO  StepDefinitions.Hooks.closeBrowser - driver is null

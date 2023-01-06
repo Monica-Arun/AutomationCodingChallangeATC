@@ -1,0 +1,16 @@
+Response_Recieved :  {
+    "gatewayDetails": [
+        {
+            "serialNumber": "Y120M2A0027",
+            "macId": "1442FC3896F7",
+            "gatewayId": "10de7872-693f-4d5a-b78a-5cc992ddb388",
+            "gatewayType": "ReliaGATE 10-12 (IoT Gateway)",
+            "gatewayStatus": "Active",
+            "gatewayConnection": "Online",
+            "organization": "1000075738",
+            "region": "Global",
+            "eCloudGatewayId": "Xzaq-dGe9l0"
+        }
+    ],
+    "size": 1
+}

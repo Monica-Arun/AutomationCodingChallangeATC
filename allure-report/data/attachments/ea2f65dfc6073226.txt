@@ -1,0 +1,1 @@
+ServiceURI-> :  /api/cl-ig-connect/v1/gateways
