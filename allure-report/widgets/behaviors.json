@@ -1,8 +1,8 @@
 {
   "total" : 1,
   "items" : [ {
-    "uid" : "c6d4b279102930937fa9adfb79e94877",
-    "name" : "IG Connect - APIs",
+    "uid" : "bf586d8d2338d283b78d19b8f334c0dd",
+    "name" : "Amazon order",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

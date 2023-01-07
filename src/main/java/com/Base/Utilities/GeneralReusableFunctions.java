@@ -86,7 +86,7 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 		return outputStream.toByteArray();
 
 	}
-
+	
 	private byte[] TakeScreenSnap_FullScroll(WebDriver driver) throws javax.imageio.IIOException{
 		BufferedImage screenshot;
 		screenshot = Shutterbug.shootPage(driver, Capture.FULL_SCROLL).getImage();
@@ -101,7 +101,7 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 		catch (WebDriverException e) {
 			Browser.getLogger().info("WebDriver exception while taking screenshot");
 		}
-
+	
 		return outputStream.toByteArray();
 
 	}
@@ -110,8 +110,8 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 	public  void TakeScreenSnap(String imgDescription, Scenario scn, WebDriver driver) {
 		scn.attach(TakeScreenSnap(driver), "image/png", imgDescription);
 
-	}
-
+	}	
+	
 	public void TakeScreenSnap_FullScroll(String imgDescription, Scenario scn, WebDriver driver) {
 		try {
 			scn.attach(TakeScreenSnap_FullScroll(driver), "image/png", imgDescription);
@@ -126,9 +126,9 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 
 	}
 	public void mouseOver(WebElement element, WebDriver driver) {
-		Actions action = new Actions(driver);
-		action.moveToElement(element).perform();
-	}
+		Actions action = new Actions(driver);	
+		action.moveToElement(element).perform();	
+	}	
 
 
 	public void wait_ForSeconds(int secondsWait) {
@@ -178,7 +178,7 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 				Browser.getLogger().info("Clicked on  : " + element);
 				return;
 				}
-
+				
 			} catch (ElementNotInteractableException e) {
 				Browser.getLogger().info("Hiden element : " + element + " : Checking next..");
 			}
@@ -186,7 +186,7 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 				Browser.getLogger().info("Hiden element : " + element + " : Checking next..");
 			}
 		}
-
+		
 		fail( "Unable to click element : " + ElementInfo);
 	}
 
@@ -269,7 +269,7 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 
 	}
 
-
+	
 	public boolean Verify_Object_IsDisplayed(WebElement wElement, WebDriver driver, String ElementInfo) {
 		int noOfAttempts = 0;
 		try {
@@ -345,9 +345,9 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 			}
 
 		}
-
-
-
+		
+		
+		
 		public void Verify_Object_IsNotDisplayed(String wElementXpath, WebDriver driver, String ElementInfo) {
 			WebElement wElement = null;
 			try {
@@ -362,32 +362,32 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 				}
 			} catch (NoSuchElementException e) {
 				Browser.getLogger().info("Web Element is NOT present : " + ElementInfo);
-			}
+			} 
 			catch (WebDriverException e) {
 				Browser.getLogger().info("Web Element not displayed(WebDriverException) : " + ElementInfo);
 			}
 
 		}
-
+		
 		public boolean Verify_Object_IsNotDisplayed(String wElementXpath, WebDriver driver) {
 			WebElement wElement = null;
 			try {
 				wElement = driver.findElement(By.xpath(wElementXpath));
 				return !wElement.isDisplayed();
-
+			
 			} catch (NoSuchElementException e) {
 				Browser.getLogger().info("Web Element is NOT present : " + wElementXpath);
 				return true;
-			}
+			} 
 			catch (WebDriverException e) {
 				Browser.getLogger().info("Web Element not displayed(WebDriverException) : " + wElementXpath);
 				return true;
 			}
 
 		}
-
-
-
+		
+		
+	
 		public boolean Verify_Object_IsNotDisplayed(WebElement wElement, WebDriver driver) {
 			int noOfAttempts = 0;
 			try {
@@ -468,10 +468,10 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 		js.executeScript("window.scrollBy(0," + pixel + ");");
 		Browser.getLogger().info("Scrolled by pixel : " + pixel);
 	}
-
+	
 	/*
 	 * @Purpose: To Verify Page Title
-	 *
+	 * 
 	 */
 
 	public boolean Verify_WebPage_Title(WebDriver driver, String textToVerify) {
@@ -510,7 +510,7 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 
 	/*
 	 * Description : To Reset Implicit wait time.
-	 *
+	 * 
 	 */
 
 	public void Reset_ImplicitWaitTime(WebDriver driver, int i) {
@@ -621,7 +621,7 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 			Click_Element_byActions(wElement, driver,ElementInfo);
 
 	}
-
+	
 	public void Click_Element_byActions( WebDriver driver,String wElementXpath, String ElementInfo) {
 
 		WebElement TempElement = null;
@@ -672,6 +672,11 @@ public GeneralReusableFunctions(RuntimeEnvironment runtime)
 		}
 	return true;
 	}
+
+	/*
+	 * @Purpose: click on element by Java Script Executor and WebElement
+	 */
+
 	public void Click_Element_JSript(WebDriver driver, WebElement myelement, String ElementInfo) {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		try {
@@ -2855,9 +2860,9 @@ public WebElement return_first_DisplayedElement_MatchingXpath(String elementXpat
 		}
 
 		public void Reset_ImplicitWaitTime(WebDriver driver) {
-			driver.manage().timeouts().implicitlyWait(20,
+			driver.manage().timeouts().implicitlyWait(Constants.default_Timeout,
 					TimeUnit.SECONDS);
-			Browser.getLogger().info("Implict wait reset back to : " + 20);
+			Browser.getLogger().info("Implict wait reset back to : " + Constants.default_Timeout);
 		}
 
 		public void ClickElement_JSript(WebDriver driver,
@@ -2925,7 +2930,7 @@ public WebElement return_first_DisplayedElement_MatchingXpath(String elementXpat
 			catch(WebDriverException f)
 			{
 				Browser.getLogger().info("Element not found (WebDriver Exception - Appium):"  + elementInfo + "... Wait...!");
-				wait_ForSeconds(20);
+				wait_ForSeconds(Constants.default_Timeout);
 				return false;
 			}
 		}
@@ -2959,11 +2964,11 @@ public WebElement return_first_DisplayedElement_MatchingXpath(String elementXpat
 				return true;
 			} catch (TimeoutException e) {
 				Browser.getLogger().info("Element not found:" + wElementXpath);
-				wait_ForSeconds(20);
+				wait_ForSeconds(Constants.default_Timeout);
 				return false;
 			} catch (NoSuchElementException e) {
 				Browser.getLogger().info("Element not found:" + wElementXpath);
-				wait_ForSeconds(20);
+				wait_ForSeconds(Constants.default_Timeout);
 				return false;
 			}
 			catch(StaleElementReferenceException d)
@@ -2978,7 +2983,7 @@ public WebElement return_first_DisplayedElement_MatchingXpath(String elementXpat
 			{
 				f.printStackTrace();
 				Browser.getLogger().info("Element not found (WebDriver Exception - Appium):" + wElementXpath + "... Wait...!");
-				wait_ForSeconds(20);
+				wait_ForSeconds(Constants.default_Timeout);
 				return false;
 			}
 		}
@@ -3028,8 +3033,8 @@ public WebElement return_first_DisplayedElement_MatchingXpath(String elementXpat
 			try {
 				while (wElement.isDisplayed() && noOfAttempts < 30)
 				{
-					Browser.getLogger().info("Waiting for element to disappear : " + ElementInfo + "   wait time : " + 20);
-					wait_ForSeconds(20);
+					Browser.getLogger().info("Waiting for element to disappear : " + ElementInfo + "   wait time : " + Constants.default_Timeout);
+					wait_ForSeconds(Constants.default_Timeout);
 					noOfAttempts++;
 					
 				}
@@ -3056,9 +3061,9 @@ public WebElement return_first_DisplayedElement_MatchingXpath(String elementXpat
 			int i=0;
 			while(Verify_Object_IsDisplayed(wElementXpath, driver) && i < 2)
 			{
-				Browser.getLogger().info("Waiting for the element to disappear : " + ElementInfo + "  waititme : " + 20);
+				Browser.getLogger().info("Waiting for the element to disappear : " + ElementInfo + "  waititme : " + Constants.default_Timeout);
 				i++;
-				wait_ForSeconds(20);
+				wait_ForSeconds(Constants.default_Timeout);
 			}
 			if(i>=2)
 			{
@@ -3281,6 +3286,8 @@ public WebElement return_first_DisplayedElement_MatchingXpath(String elementXpat
 		//Get the hash's bytes
 		byte[] bytes = digest.digest();
 
+		//This bytes[] has bytes in decimal format;
+		//Convert it to hexadecimal format
 		StringBuilder sb = new StringBuilder();
 		for(int i=0; i< bytes.length ;i++)
 		{

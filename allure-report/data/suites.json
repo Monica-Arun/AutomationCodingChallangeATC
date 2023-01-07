@@ -2,21 +2,21 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "IG Connect - APIs",
+    "name" : "Amazon order",
     "children" : [ {
-      "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
-      "uid" : "642931951b20dc32",
-      "parentUid" : "4f23c6bf0811938f2f9dae7808b99b3e",
+      "name" : "TC001_OrderProduct_Amazon",
+      "uid" : "f2b52b9677918ebe",
+      "parentUid" : "5658e989e77b7b8c1baa6db445e6b048",
       "status" : "passed",
       "time" : {
-        "start" : 1672757203593,
-        "stop" : 1672757235709,
-        "duration" : 32116
+        "start" : 1673070717307,
+        "stop" : 1673070752554,
+        "duration" : 35247
       },
       "flaky" : false,
       "newFailed" : false,
-      "parameters" : [ "QA" ]
+      "parameters" : [ "Chrome", "QA" ]
     } ],
-    "uid" : "4f23c6bf0811938f2f9dae7808b99b3e"
+    "uid" : "5658e989e77b7b8c1baa6db445e6b048"
   } ]
 }

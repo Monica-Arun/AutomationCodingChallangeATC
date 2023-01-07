@@ -1,10 +1,10 @@
 [ {
-  "uid" : "642931951b20dc32",
-  "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
+  "uid" : "f2b52b9677918ebe",
+  "name" : "TC001_OrderProduct_Amazon",
   "time" : {
-    "start" : 1672757203593,
-    "stop" : 1672757235709,
-    "duration" : 32116
+    "start" : 1673070717307,
+    "stop" : 1673070752554,
+    "duration" : 35247
   },
   "status" : "passed",
   "severity" : "normal"

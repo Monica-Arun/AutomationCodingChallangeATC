@@ -2,25 +2,25 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "IG Connect - APIs",
+    "name" : "Amazon order",
     "children" : [ {
-      "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
+      "name" : "TC001_OrderProduct_Amazon",
       "children" : [ {
-        "name" : "IGCommonAPI_TC014_Validate_GatewayDetails",
-        "uid" : "642931951b20dc32",
-        "parentUid" : "db3a247bbcd44e29fcd33a5b48fff45f",
+        "name" : "TC001_OrderProduct_Amazon",
+        "uid" : "f2b52b9677918ebe",
+        "parentUid" : "555acf4077ee2f202d103f595a456ce4",
         "status" : "passed",
         "time" : {
-          "start" : 1672757203593,
-          "stop" : 1672757235709,
-          "duration" : 32116
+          "start" : 1673070717307,
+          "stop" : 1673070752554,
+          "duration" : 35247
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "QA" ]
+        "parameters" : [ "Chrome", "QA" ]
       } ],
-      "uid" : "db3a247bbcd44e29fcd33a5b48fff45f"
+      "uid" : "555acf4077ee2f202d103f595a456ce4"
     } ],
-    "uid" : "c6d4b279102930937fa9adfb79e94877"
+    "uid" : "bf586d8d2338d283b78d19b8f334c0dd"
   } ]
 }

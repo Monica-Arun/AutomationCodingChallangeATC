@@ -58,6 +58,7 @@ allure {
 }
 
 test {
+    jvmArgs "-noverify"
     systemProperty "file.encoding", "UTF-8"
     systemProperties(project.gradle.startParameter.systemPropertiesArgs)
     systemProperty "cucumber.execution.parallel.enabled",findProperty("test.parallel")
