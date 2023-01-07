@@ -67,9 +67,6 @@ test {
     systemProperty "browser",findProperty("browser")
     systemProperty "grid",findProperty("grid")
     systemProperty "env",findProperty("env")
-    systemProperty "LEGW_IP",findProperty("LEGW_IP")
-    systemProperty "LEGW_Username",findProperty("LEGW_Username")
-    systemProperty "LEGW_Password",findProperty("LEGW_Password")
     useJUnitPlatform(){
         excludeTags("disabled")
     }

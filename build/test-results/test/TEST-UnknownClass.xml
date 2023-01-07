@@ -1,1733 +1,485 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="UnknownClass" tests="537" skipped="508" failures="0" errors="0" timestamp="2023-01-03T14:46:42" hostname="COK-A-00107" time="34.178">
+<testsuite name="UnknownClass" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-07T05:51:56" hostname="MONICA-ARUN" time="36.2">
   <properties/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Gateway-APIs" classname="UnknownClass" time="0.027"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="33.727"/>
-  <testcase name="IG Connect - APIs" classname="UnknownClass" time="33.732"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="GUI Navigation - IGConnect/Gateway" classname="UnknownClass" time="0.004"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Device Management" classname="UnknownClass" time="0.012"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Device Management" classname="UnknownClass" time="0.011"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Device Management" classname="UnknownClass" time="0.004"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Device Management" classname="UnknownClass" time="0.012"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Diagnostics" classname="UnknownClass" time="0.008"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Diagnostics" classname="UnknownClass" time="0.004"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Error and Audit Notifications - AWS/SNS Validation" classname="UnknownClass" time="0.002"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="IGConnect Gateway Management" classname="UnknownClass" time="0.014"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Gateway Monitoring" classname="UnknownClass" time="0.006"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Health Check" classname="UnknownClass" time="0.0"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="LPD API" classname="UnknownClass" time="0.001"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="LPD" classname="UnknownClass" time="0.001"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Logs - Gateway" classname="UnknownClass" time="0.006"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Logs - Gateway" classname="UnknownClass" time="0.002"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Logs IGConnect" classname="UnknownClass" time="0.002"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Logs IGConnect" classname="UnknownClass" time="0.006"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Ig Connect - Order File Processing" classname="UnknownClass" time="0.001"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Local Gateway - Password change" classname="UnknownClass" time="0.001"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Repair - Gateway" classname="UnknownClass" time="0.001"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Software Updates - IGConnect" classname="UnknownClass" time="0.001"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="SoftwareUpdate" classname="UnknownClass" time="0.0"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="UNC" classname="UnknownClass" time="0.002"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="UNC" classname="UnknownClass" time="0.0"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.001">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="User Management - IGConnect" classname="UnknownClass" time="0.001"/>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="Example #1" classname="UnknownClass" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="User Management - IGConnect - Automated Tests" classname="UnknownClass" time="0.001"/>
+  <testcase name="Example #1" classname="UnknownClass" time="36.2"/>
+  <testcase name="Amazon order" classname="UnknownClass" time="36.216"/>
   <system-out><![CDATA[
-@EDGW-4432 @EDGW-6545 @IGConnectAPI @IGConnect @Regression @Automatable
-Scenario Outline: IGCommonAPI_TC014_Validate_GatewayDetails                              ?[90m# features/Common_IGConnect_API.feature:118?[0m
+@Project1
+Scenario Outline: TC001_OrderProduct_Amazon                                                                  ?[90m# features/AmazonOrder.feature:17?[0m
 
     Embedding Test Execution Began [text/plain 41 bytes]
 
-2023-01-03 20:16:44,907 INFO  com.Base.Utilities.Browser.get_environment_fromCommandline - Environment passed from the commandline : Stage
-2023-01-03 20:16:44,919 INFO  com.Base.Utilities.Browser.get_Browser - Browser not specified...! Defaulting to 'Chrome'
-2023-01-03 20:16:44,921 INFO  com.Base.Utilities.Browser.get_ScenarioName - Scenario name for data sheet : IGCommonAPI_TC014_Validate_GatewayDetails
-  ?[32mGiven ?[0m?[32minitialise API environment - ?[0m?[32m?[1m"QA"?[0m                                                ?[90m# StepDefinitions.Hooks.initialise_API_Environment(java.lang.String)?[0m
-2023-01-03 20:16:48,137 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
-2023-01-03 20:16:48,153 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+2023-01-07 11:21:58,316 INFO  com.Base.Utilities.Browser.get_environment_fromCommandline - Environment passed from the commandline : QA
+2023-01-07 11:21:58,316 INFO  com.Base.Utilities.Browser.get_environment_fromCommandline - Environment passed from the commandline : QA
+2023-01-07 11:21:58,316 INFO  com.Base.Utilities.Browser.InitialiseWebDriver - Creating chrome driver..!
+2023-01-07 11:21:58,316 INFO  com.Base.Utilities.Browser.newChromeDriver - Chrome default download path is set to C:\Users\Monica\AM\ATCProject\AutomationCodingChallangeATC\src\test\resources\downloads\
+2023-01-07 11:22:00,580 INFO  com.Base.Utilities.Browser.get_ScenarioName - Scenario name for data sheet : TC001_OrderProduct_Amazon
+  ?[32mGiven ?[0m?[32mWeb Application launched - Application - ?[0m?[32m?[1m"Amazon"?[0m?[32m : with Browser : ?[0m?[32m?[1m"Chrome"?[0m?[32m, Environment : ?[0m?[32m?[1m"QA"?[0m      ?[90m# StepDefinitions.Hooks.WebApplication_Launch(java.lang.String,java.lang.String,java.lang.String)?[0m
+2023-01-07 11:22:04,804 INFO  com.Base.Utilities.GeneralReusableFunctions.Verify_Object_IsDisplayed - Web Element is present & displayed on screen : Home Page -> Hamburger menu
+2023-01-07 11:22:05,954 INFO  com.Base.Utilities.GeneralReusableFunctions.Click_Element - Clicked the element : Home Page -> Hamburger menu
 
-    Embedding EnvironmentURL-> [text/plain 119 bytes]
+    Embedding HamburgerMenu_Displayed [image/png 671309 bytes]
 
-2023-01-03 20:16:48,614 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_PrincipalId_MultipleOrg for the environment : Stage
-2023-01-03 20:16:48,630 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : SerialNumber for the environment : Stage
-2023-01-03 20:16:48,633 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_OrganizationId for the environment : Stage
-2023-01-03 20:16:48,633 INFO  test.pages.Backlogs_IGConnect_API_Page.Hit_IGConnectSingleGatewayAPI_CaptureGatewayId - OrganizationDetails {
-    "page": 1,
-    "size": 5,
-    "serialNumber": "Y120M2A0027",
-    "organizationId": [
-        1000075738
-    ]
-}
-2023-01-03 20:16:48,640 INFO  com.Base.Utilities.Configurations.GLOBAL_get_Data - Retrieved : IGConnect_getgatewaydetails Value : /api/cl-ig-connect/v1/gateways
+  ?[32mThen ?[0m?[32mClick on the hamburger menu in the top left corner?[0m                                                    ?[90m# StepDefinitions.HomePage_Steps.Click_HamburgerMenu_TopLeftCorner()?[0m
+2023-01-07 11:22:07,098 INFO  com.Base.Utilities.GeneralReusableFunctions.scroll_to_view_WebElement - Scolled to weblement : Home Page -> Hamburger menu -> Shop by TV and Electronics section
+2023-01-07 11:22:07,191 INFO  com.Base.Utilities.GeneralReusableFunctions.Click_Element - Clicked the element : Home Page -> Hamburger menu -> Shop by TV and Electronics section
 
-    Embedding ServiceURI-> [text/plain 46 bytes]
+    Embedding ShopByTvSection_Displayed [image/png 678638 bytes]
 
-{
-    "gatewayDetails": [
-        {
-            "serialNumber": "Y120M2A0027",
-            "macId": "1442FC3896F7",
-            "gatewayId": "10de7872-693f-4d5a-b78a-5cc992ddb388",
-            "gatewayType": "ReliaGATE 10-12 (IoT Gateway)",
-            "gatewayStatus": "Active",
-            "gatewayConnection": "Online",
-            "organization": "1000075738",
-            "region": "Global",
-            "eCloudGatewayId": "Xzaq-dGe9l0"
-        }
-    ],
-    "size": 1
-}
+  ?[32mAnd ?[0m?[32mScroll down and then Click on the TV, Appliances and Electronics link under Shop by Department section?[0m ?[90m# StepDefinitions.HomePage_Steps.scrollDownAndThenClickOnTheTVAppliancesAndElectronicsLinkUnderShopByDepartmentSection()?[0m
+2023-01-07 11:22:08,030 INFO  com.Base.Utilities.GeneralReusableFunctions.Verify_Object_IsDisplayed - Web Element is present & displayed on screen : Tv, Audio & Cameras -> Televisions
+2023-01-07 11:22:08,854 INFO  com.Base.Utilities.GeneralReusableFunctions.Click_Element - Clicked the element : Tv, Audio & Cameras -> Televisions
 
-    Embedding Response_Recieved [text/plain 495 bytes]
+    Embedding TelevisionsSection_Displayed [image/png 85963 bytes]
 
-  ?[32mAnd ?[0m?[32mhit the API - 'IG Connect - Get single gateway details' and capture the gateway Id?[0m ?[90m# StepDefinitions.Backlog_API_Steps.hitTheAPIIGConnectGetSingleGatewayDetailsAndCaptureTheGatewayId()?[0m
-2023-01-03 20:16:51,838 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
-2023-01-03 20:16:51,839 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : IGConnect_BaseURI for the environment : Stage
+  ?[32mAnd ?[0m?[32mclick on Televisions under the Tv, Audio & Cameras sub section?[0m                                         ?[90m# StepDefinitions.HomePage_Steps.thenClickOnTelevisionsUnderTheTvAudioCamerasSubSection()?[0m
+2023-01-07 11:22:09,920 INFO  com.Base.Utilities.GeneralReusableFunctions.scroll_to_view_WebElement - Scolled to weblement : Tv, Audio & Cameras -> Televisions -> Samsung
+2023-01-07 11:22:10,548 INFO  com.Base.Utilities.GeneralReusableFunctions.Click_Element - Clicked the element : Tv, Audio & Cameras -> Televisions -> Samsung
 
-    Embedding EnvironmentURL-> [text/plain 119 bytes]
+    Embedding FilteredBySamsung [image/png 669628 bytes]
 
-2023-01-03 20:16:51,943 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : User_PrincipalId_MultipleOrg for the environment : Stage
-2023-01-03 20:16:51,944 INFO  com.Base.Utilities.Configurations.GLOBAL_get_Data - Retrieved : IGConnect_GatewayDetailsOneAPP Value : /api/cl-ig-connect/v1/gateways/gateway-details?gatewayId={GatewayId}
+  ?[32mThen ?[0m?[32mScroll down and filter the results by Brand ‘Samsung’?[0m                                                 ?[90m# StepDefinitions.HomePage_Steps.scrollDownAndFilterTheResultsByBrandSamsung()?[0m
+2023-01-07 11:22:13,416 INFO  com.Base.Utilities.GeneralReusableFunctions.Verify_Object_IsDisplayed - Web Element is present & displayed on screen : Electronics Page -> SortBy dropdown
+2023-01-07 11:22:13,516 INFO  com.Base.Utilities.GeneralReusableFunctions.Click_Element - Clicked the element : Electronics Page -> SortBy dropdown
+2023-01-07 11:22:13,598 INFO  com.Base.Utilities.GeneralReusableFunctions.Verify_Object_IsDisplayed - Web Element is present & displayed on screen : Electronics Page -> SortBy dropdown -> Price: High to Low
+2023-01-07 11:22:15,758 INFO  com.Base.Utilities.GeneralReusableFunctions.Click_Element - Clicked the element : Electronics Page -> -> Price: High to Low
 
-    Embedding ServiceURI-> [text/plain 109 bytes]
+    Embedding SortedByPrice [image/png 852406 bytes]
 
-{
-    "monitorHardwareResponse": {
-        "status": "RED",
-        "cpuUtilization": "25.482764830531735",
-        "memoryUtilization": "47.692999458539",
-        "diskUsed": "80.32"
-    },
-    "monitorSoftwareResponse": {
-        "connectionStatus": "Online",
-        "esf": "TF_EDGE_10_12_1.0.0-Beta-3"
-    },
-    "monitorNetworkStatus": "Couldn't Process",
-    "deviceDetailsResponse": {
-        "deviceDetails": [
-            {
-                "deviceName": "RegressionTestQA",
-                "deviceStatus": "REGISTERED",
-                "deviceType": "ElectronMicroscope",
-                "uniqueDeviceId": "2c901-e566-4ba8-8168-2a6cc4d",
-                "dataFlow": false
-            },
-            {
-                "deviceName": "DEVICE_NAME_01_170",
-                "model": "mol-771",
-                "serialNumber": "sl-771",
-                "deviceStatus": "ACTIVE",
-                "deviceType": "ElectronMicroscope",
-                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-qmnhxxctgm",
-                "uniqueDeviceId": "DEVICE_PR_01",
-                "deviceTwinId": "50e4bb7c-2828-4ac6-8706-8b9d0d3a4229",
-                "dataFlow": false,
-                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DEVICE_PR_01}"
-            },
-            {
-                "deviceName": "testdevicedereg1",
-                "model": "mol-1274578446",
-                "serialNumber": "sl-11644534456",
-                "deviceStatus": "ACTIVE",
-                "deviceType": "ElectronMicroscope",
-                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-l7h7cuqqcf",
-                "uniqueDeviceId": "testdevicedereg1",
-                "deviceTwinId": "2c69d849-292b-47c8-80e6-492aa41ad6d0",
-                "dataFlow": false,
-                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=testdevicedereg1}"
-            },
-            {
-                "deviceName": "Test123",
-                "deviceStatus": "REGISTERED",
-                "deviceType": "ElectronMicroscope",
-                "uniqueDeviceId": "test123",
-                "dataFlow": false
-            },
-            {
-                "deviceName": "Device230103164825",
-                "model": "mol-00844era11",
-                "serialNumber": "sl-009eria11",
-                "deviceStatus": "ACTIVE",
-                "deviceType": "ElectronMicroscope",
-                "deviceId": "10de7872-693f-4d5a-b78a-5cc992ddb388-ailv8ntdd7",
-                "uniqueDeviceId": "DevUnique230103164824",
-                "deviceTwinId": "a2870f6f-8782-4271-b665-a415d2d7c97c",
-                "dataFlow": true,
-                "metadata": "{key1=key1, key2=key2, uniqueDeviceId=DevUnique230103164824}"
-            }
-        ],
-        "size": 5
-    },
-    "userInfo": {
-        "name": "admin",
-        "password": "Y120M2A0027"
-    },
-    "organization": "Lab_Edge_MSD_Release_2",
-    "region": "Global",
-    "gatewayConnectionStatus": "Online",
-    "serialNum": "Y120M2A0027"
-}
+  ?[32mThen ?[0m?[32mSort the Samsung results with price High to Low?[0m                                                       ?[90m# StepDefinitions.ElectronicsPage_Steps.SortBy_Price_HighToLow()?[0m
+2023-01-07 11:22:16,622 INFO  com.Base.Utilities.GeneralReusableFunctions.Verify_Object_IsDisplayed - Web Element is present & displayed on screen : Electronics Page -> -> Price: High to Low -> Second highest priced item
 
-    Embedding Response_Recieved [text/plain 2990 bytes]
+    Embedding SecondHighest_PricedItem [image/png 1207037 bytes]
 
-  ?[32mThen ?[0m?[32mhit the API -'GatewayDetail for One APP' and capture the response?[0m                 ?[90m# StepDefinitions.Backlog_API_Steps.hitTheAPIGatewayDetailForOneAPPAndCaptureTheResponse()?[0m
+  ?[32mThen ?[0m?[32mClick on the second highest priced item?[0m                                                               ?[90m# StepDefinitions.ElectronicsPage_Steps.clickOnTheSecondHighestPricedItem()?[0m
+2023-01-07 11:22:30,793 INFO  com.Base.Utilities.GeneralReusableFunctions.scroll_to_view_WebElement - Scolled to weblement : Second highest priced item -> About this item
+2023-01-07 11:22:30,927 INFO  com.Base.Utilities.GeneralReusableFunctions.Verify_Object_IsDisplayed - Web Element is present & displayed on screen : Second highest priced item -> About this item
 
-    Embedding HardwareResponse [text/plain 131 bytes]
+    Embedding AboutThisItem [text/plain 32 bytes]
 
-  ?[32mThen ?[0m?[32mvalidate the Hardware status in the response?[0m                                      ?[90m# StepDefinitions.Backlog_API_Steps.validateTheHardwareStatusInTheResponse()?[0m
+2023-01-07 11:22:31,000 INFO  test.pages.ElectronicsPage.Validate_TextPresent_AboutThisItem - About this item
+  ?[32mThen ?[0m?[32mAssert that “About this item” section is present and log this section text to console or report?[0m       ?[90m# StepDefinitions.ElectronicsPage_Steps.assertThatAboutThisItemSectionIsPresentAndLogThisSectionTextToConsoleReport()?[0m
 
-    Embedding SoftwareResponse [text/plain 84 bytes]
-
-  ?[32mAnd ?[0m?[32mvalidate the Software status in the response?[0m                                       ?[90m# StepDefinitions.Backlog_API_Steps.validateTheSoftwareStatusInTheResponse()?[0m
-  ?[32mAnd ?[0m?[32mvalidate the Network status in the response?[0m                                        ?[90m# StepDefinitions.Backlog_API_Steps.validateTheNetworkStatusInTheResponse()?[0m
-
-    Embedding DeviceDetails [text/plain 1483 bytes]
-
-  ?[32mAnd ?[0m?[32mvalidate the Device details in the response?[0m                                        ?[90m# StepDefinitions.Backlog_API_Steps.validateTheDeviceDetailsInTheResponse()?[0m
-
-    Embedding UserInfo [text/plain 53 bytes]
-
-  ?[32mAnd ?[0m?[32mvalidate the userInfo in the response?[0m                                              ?[90m# StepDefinitions.Backlog_API_Steps.validateTheUserInfoInTheResponse()?[0m
-2023-01-03 20:17:15,662 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : Organisation for the environment : Stage
-
-    Embedding Gateway_Organization [text/plain 46 bytes]
-
-2023-01-03 20:17:15,674 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : SerialNumber for the environment : Stage
-
-    Embedding Gateway_SerialNumber [text/plain 35 bytes]
-
-2023-01-03 20:17:15,684 INFO  com.Base.Utilities.Configurations.ENV_get_Data - Retrieving value for : Region for the environment : Stage
-
-    Embedding Gateway_Region [text/plain 24 bytes]
+    Embedding Passed [image/png 1327178 bytes]
 
 
-    Embedding GatewayConnectionStatus [text/plain 33 bytes]
+    Embedding Test Execution Ended [text/plain 41 bytes]
 
-  ?[32mAnd ?[0m?[32mvalidate the Gateway details in the response?[0m                                       ?[90m# StepDefinitions.Backlog_API_Steps.validateTheGatewayDetailsInTheResponse()?[0m
-2023-01-03 20:17:15,705 INFO  StepDefinitions.Hooks.closeBrowser - driver is null
 ]]></system-out>
-  <system-err><![CDATA[]]></system-err>
+  <system-err><![CDATA[AspectJ Internal Error: unable to add stackmap attributes. Unsupported class file major version 60
+java.lang.IllegalArgumentException: Unsupported class file major version 60
+	at aj.org.objectweb.asm.ClassReader.<init>(ClassReader.java:196)
+	at aj.org.objectweb.asm.ClassReader.<init>(ClassReader.java:177)
+	at aj.org.objectweb.asm.ClassReader.<init>(ClassReader.java:163)
+	at org.aspectj.weaver.bcel.asm.StackMapAdder.addStackMaps(StackMapAdder.java:42)
+	at org.aspectj.weaver.bcel.LazyClassGen.getJavaClassBytesIncludingReweavable(LazyClassGen.java:764)
+	at org.aspectj.weaver.bcel.BcelWeaver.getClassFilesFor(BcelWeaver.java:1463)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1425)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1195)
+	at org.aspectj.weaver.tools.WeavingAdaptor.getWovenBytes(WeavingAdaptor.java:551)
+	at org.aspectj.weaver.tools.WeavingAdaptor.weaveClass(WeavingAdaptor.java:387)
+	at org.aspectj.weaver.loadtime.Aj.preProcess(Aj.java:116)
+	at org.aspectj.weaver.loadtime.ClassPreProcessorAgentAdapter.transform(ClassPreProcessorAgentAdapter.java:51)
+	at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:244)
+	at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:565)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1010)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:855)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:753)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:676)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:634)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3334)
+	at java.base/java.lang.Class.privateGetPublicMethods(Class.java:3359)
+	at java.base/java.lang.Class.privateGetPublicMethods(Class.java:3365)
+	at java.base/java.lang.Class.getMethods(Class.java:1990)
+	at io.cucumber.java.MethodScanner.safelyGetMethods(MethodScanner.java:37)
+	at io.cucumber.java.MethodScanner.scan(MethodScanner.java:30)
+	at io.cucumber.java.JavaBackend.lambda$loadGlue$2(JavaBackend.java:40)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at io.cucumber.java.JavaBackend.loadGlue(JavaBackend.java:40)
+	at io.cucumber.core.runner.Runner.<init>(Runner.java:54)
+	at io.cucumber.core.runtime.SingletonRunnerSupplier.createRunner(SingletonRunnerSupplier.java:47)
+	at io.cucumber.core.runtime.SingletonRunnerSupplier.get(SingletonRunnerSupplier.java:37)
+	at io.cucumber.core.runtime.CucumberExecutionContext.getRunner(CucumberExecutionContext.java:128)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:115)
+	at io.cucumber.junit.platform.engine.CucumberEngineExecutionContext.runTestCase(CucumberEngineExecutionContext.java:87)
+	at io.cucumber.junit.platform.engine.PickleDescriptor.execute(PickleDescriptor.java:100)
+	at io.cucumber.junit.platform.engine.PickleDescriptor.execute(PickleDescriptor.java:29)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 32788
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 07, 2023 11:22:00 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 07, 2023 11:22:04 AM org.aspectj.weaver.tools.Jdk14Trace error
+SEVERE: test/pages/HomePage
+org.aspectj.weaver.BCException: Unable to find Asm for stackmap generation (Looking for 'aj.org.objectweb.asm.ClassReader'). Stackmap generation for woven code is required to avoid verify errors on a Java 1.7 or higher runtime
+when weaving type test.pages.HomePage
+when weaving classes 
+when weaving 
+
+	at org.aspectj.weaver.bcel.LazyClassGen.getJavaClassBytesIncludingReweavable(LazyClassGen.java:762)
+	at org.aspectj.weaver.bcel.BcelWeaver.getClassFilesFor(BcelWeaver.java:1463)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1425)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1195)
+	at org.aspectj.weaver.tools.WeavingAdaptor.getWovenBytes(WeavingAdaptor.java:551)
+	at org.aspectj.weaver.tools.WeavingAdaptor.weaveClass(WeavingAdaptor.java:387)
+	at org.aspectj.weaver.loadtime.Aj.preProcess(Aj.java:116)
+	at org.aspectj.weaver.loadtime.ClassPreProcessorAgentAdapter.transform(ClassPreProcessorAgentAdapter.java:51)
+	at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:244)
+	at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:565)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1010)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:855)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:753)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:676)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:634)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+	at com.Runtime.utilities.PageObjectManager.get_HomePage(PageObjectManager.java:23)
+	at StepDefinitions.HomePage_Steps.Click_HamburgerMenu_TopLeftCorner(HomePage_Steps.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:104)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.platform.engine.CucumberEngineExecutionContext.lambda$runTestCase$3(CucumberEngineExecutionContext.java:90)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:117)
+	at io.cucumber.junit.platform.engine.CucumberEngineExecutionContext.runTestCase(CucumberEngineExecutionContext.java:87)
+	at io.cucumber.junit.platform.engine.PickleDescriptor.execute(PickleDescriptor.java:100)
+	at io.cucumber.junit.platform.engine.PickleDescriptor.execute(PickleDescriptor.java:29)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+
+Jan 07, 2023 11:22:04 AM org.aspectj.weaver.tools.Jdk14Trace info
+INFO: Dumping to C:\Users\Monica\AM\ATCProject\AutomationCodingChallangeATC\.\ajcore.20230107.112204.640.txt
+Jan 07, 2023 11:22:13 AM org.aspectj.weaver.tools.Jdk14Trace error
+SEVERE: test/pages/ElectronicsPage
+org.aspectj.weaver.BCException: Unable to find Asm for stackmap generation (Looking for 'aj.org.objectweb.asm.ClassReader'). Stackmap generation for woven code is required to avoid verify errors on a Java 1.7 or higher runtime
+when weaving type test.pages.ElectronicsPage
+when weaving classes 
+when weaving 
+
+	at org.aspectj.weaver.bcel.LazyClassGen.getJavaClassBytesIncludingReweavable(LazyClassGen.java:762)
+	at org.aspectj.weaver.bcel.BcelWeaver.getClassFilesFor(BcelWeaver.java:1463)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1425)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1195)
+	at org.aspectj.weaver.tools.WeavingAdaptor.getWovenBytes(WeavingAdaptor.java:551)
+	at org.aspectj.weaver.tools.WeavingAdaptor.weaveClass(WeavingAdaptor.java:387)
+	at org.aspectj.weaver.loadtime.Aj.preProcess(Aj.java:116)
+	at org.aspectj.weaver.loadtime.ClassPreProcessorAgentAdapter.transform(ClassPreProcessorAgentAdapter.java:51)
+	at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:244)
+	at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:565)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1010)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:855)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:753)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:676)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:634)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+	at com.Runtime.utilities.PageObjectManager.get_ElectronicsPage(PageObjectManager.java:28)
+	at StepDefinitions.ElectronicsPage_Steps.SortBy_Price_HighToLow(ElectronicsPage_Steps.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:104)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.platform.engine.CucumberEngineExecutionContext.lambda$runTestCase$3(CucumberEngineExecutionContext.java:90)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:117)
+	at io.cucumber.junit.platform.engine.CucumberEngineExecutionContext.runTestCase(CucumberEngineExecutionContext.java:87)
+	at io.cucumber.junit.platform.engine.PickleDescriptor.execute(PickleDescriptor.java:100)
+	at io.cucumber.junit.platform.engine.PickleDescriptor.execute(PickleDescriptor.java:29)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+
+Jan 07, 2023 11:22:13 AM org.aspectj.weaver.tools.Jdk14Trace info
+INFO: Dumping to C:\Users\Monica\AM\ATCProject\AutomationCodingChallangeATC\.\ajcore.20230107.112213.360.txt
+]]></system-err>
 </testsuite>
