@@ -1,0 +1,291 @@
+{
+  "uid" : "f2b52b9677918ebe",
+  "name" : "TC001_OrderProduct_Amazon",
+  "fullName" : "Amazon order: TC001_OrderProduct_Amazon",
+  "historyId" : "d4ceb9be0429b0e30fa85dff0acfef08",
+  "time" : {
+    "start" : 1673070717307,
+    "stop" : 1673070752554,
+    "duration" : 35247
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StepDefinitions.Hooks.setup(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1673070717337,
+      "stop" : 1673070717390,
+      "duration" : 53
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b1b69b5c3ef083d7",
+      "name" : "Test Execution Began",
+      "source" : "b1b69b5c3ef083d7.txt",
+      "type" : "text/plain",
+      "size" : 41
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Web Application launched - Application - \"Amazon\" : with Browser : \"Chrome\", Environment : \"QA\"",
+      "time" : {
+        "start" : 1673070717409,
+        "stop" : 1673070724625,
+        "duration" : 7216
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  Click on the hamburger menu in the top left corner",
+      "time" : {
+        "start" : 1673070724627,
+        "stop" : 1673070727060,
+        "duration" : 2433
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bbf194f2156261e5",
+        "name" : "HamburgerMenu_Displayed",
+        "source" : "bbf194f2156261e5.png",
+        "type" : "image/png",
+        "size" : 671309
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "And  Scroll down and then Click on the TV, Appliances and Electronics link under Shop by Department section",
+      "time" : {
+        "start" : 1673070727062,
+        "stop" : 1673070727988,
+        "duration" : 926
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6d1472fe6ce9cf25",
+        "name" : "ShopByTvSection_Displayed",
+        "source" : "6d1472fe6ce9cf25.png",
+        "type" : "image/png",
+        "size" : 678638
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "And  click on Televisions under the Tv, Audio & Cameras sub section",
+      "time" : {
+        "start" : 1673070727988,
+        "stop" : 1673070729471,
+        "duration" : 1483
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "30f31ae7c68ba615",
+        "name" : "TelevisionsSection_Displayed",
+        "source" : "30f31ae7c68ba615.png",
+        "type" : "image/png",
+        "size" : 85963
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  Scroll down and filter the results by Brand ‘Samsung’",
+      "time" : {
+        "start" : 1673070729471,
+        "stop" : 1673070733349,
+        "duration" : 3878
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c05dfe22aafea64f",
+        "name" : "FilteredBySamsung",
+        "source" : "c05dfe22aafea64f.png",
+        "type" : "image/png",
+        "size" : 669628
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  Sort the Samsung results with price High to Low",
+      "time" : {
+        "start" : 1673070733349,
+        "stop" : 1673070736582,
+        "duration" : 3233
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a3d663bcd0cbbb07",
+        "name" : "SortedByPrice",
+        "source" : "a3d663bcd0cbbb07.png",
+        "type" : "image/png",
+        "size" : 852406
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  Click on the second highest priced item",
+      "time" : {
+        "start" : 1673070736582,
+        "stop" : 1673070750712,
+        "duration" : 14130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cf1df56a09e4c3f5",
+        "name" : "SecondHighest_PricedItem",
+        "source" : "cf1df56a09e4c3f5.png",
+        "type" : "image/png",
+        "size" : 1207037
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  Assert that “About this item” section is present and log this section text to console or report",
+      "time" : {
+        "start" : 1673070750714,
+        "stop" : 1673070751001,
+        "duration" : 287
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "70b19e3606a3657c",
+        "name" : "AboutThisItem",
+        "source" : "70b19e3606a3657c.txt",
+        "type" : "text/plain",
+        "size" : 32
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 7,
+    "hasContent" : true,
+    "stepsCount" : 8
+  },
+  "afterStages" : [ {
+    "name" : "StepDefinitions.Hooks.closeBrowser()",
+    "time" : {
+      "start" : 1673070751004,
+      "stop" : 1673070752552,
+      "duration" : 1548
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a76f7761f5ce9a01",
+      "name" : "Passed",
+      "source" : "a76f7761f5ce9a01.png",
+      "type" : "image/png",
+      "size" : 1327178
+    }, {
+      "uid" : "1c8de0675912e116",
+      "name" : "Test Execution Ended",
+      "source" : "1c8de0675912e116.txt",
+      "type" : "text/plain",
+      "size" : 41
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Project1"
+  }, {
+    "name" : "host",
+    "value" : "Monica-Arun"
+  }, {
+    "name" : "thread",
+    "value" : "12932@Monica-Arun.Test worker(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Amazon order"
+  }, {
+    "name" : "story",
+    "value" : "TC001_OrderProduct_Amazon"
+  }, {
+    "name" : "suite",
+    "value" : "Amazon order"
+  }, {
+    "name" : "testClass",
+    "value" : "TC001_OrderProduct_Amazon"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "classpath:features/AmazonOrder.feature"
+  }, {
+    "name" : "package",
+    "value" : "features.AmazonOrder_feature.Amazon order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Browser",
+    "value" : "Chrome"
+  }, {
+    "name" : "Environment",
+    "value" : "QA"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Project1" ]
+  },
+  "source" : "f2b52b9677918ebe.json",
+  "parameterValues" : [ "Chrome", "QA" ]
+}
